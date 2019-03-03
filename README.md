@@ -11,4 +11,5 @@ this text will be saved in the backend and the encrypted text will get returned 
 
 
 
-This is the link for our API :https://gateway-lon.watsonplatform.net/knowledge-studio/tools/app/rzhz10/tj48o4z28xi16iw5/ui/#/project/73f98250-3d15-11e9-8028-43246fe68de4/preannotation/
+This is the link for our API :
+https://gateway-lon.watsonplatform.net/knowledge-studio/tools/app/rzhz10/tj48o4z28xi16iw5/ui/#/project/73f98250-3d15-11e9-8028-43246fe68de4/ml/versions/
